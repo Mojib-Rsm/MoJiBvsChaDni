@@ -29,13 +29,19 @@ Enter Command..
 # Command
 
 pkg install git 
+
 pkg install python
+
 git clone https://github.com/Mojib-Rsm/MoJiBvsChaDni
 
 cd MoJiBvsChaDni
+
 ls
+
 pip install requests
+
 python MoJiB.Pin
+
 
 
 # Need UserName And Password???
