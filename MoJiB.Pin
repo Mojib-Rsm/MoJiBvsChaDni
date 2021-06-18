@@ -54,8 +54,8 @@ print("-----------------------------------------------------------")
 n=2
 while n==2:
 		a=str(input(cyan+"\n\n\t\t[>] UserName : "+green))
-		b=str(input(cyan+"\n\n\t\t[>] PassWord : "+green))
-		if a=="MoJiB" and b=="ChaDni":
+		b=str(inputy(cyan+"\n\n\t\t[>] PassWord : "+green))
+		if a=="MoJiB💘" and b=="ChaDni💘":
 			print(green+"\n\n\t\t[ √ ] Accepted")
 			n=3
 		else:
