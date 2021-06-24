@@ -10,14 +10,16 @@ It’s My Official Account...
 
 # Contact 
 
-Need HeLp Or Contact Me??
 
-My Facebook iD MoJiB Rsm..
+My Facebook iD MoJiB Rsm..👉
 Fb Link: Https://www.Facebook.com/mojib.rsm
 
-My YouTube Channel: 
+My YouTube Channel:👉
 
 https://youtube.com/channel/UCSoBDlUtFzE-tfAWTP7u6fA
+
+Second Channel:👉
+https://youtube.com/channel/UC7jw9rM4ovrWgnJIzKmJ5Fw
 
 
 # How To Use Sms Bombing??
